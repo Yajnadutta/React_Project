@@ -1,0 +1,16 @@
+.swal2-styled.swal2-confirm {
+    border: 0;
+    border-radius: 0.25em;
+    background: initial;
+    background-color: rgb(0,147,69) !important;
+    color: #fff;
+    font-size: 17px;
+    /* width: 104% !important; */
+}
+.swal2-styled {
+    margin: 0.3125em;
+    padding: 0.625em 4.5em !important;
+    transition: box-shadow .1s;
+    box-shadow: 0 0 0 3px rgb(0 0 0 / 0%);
+    font-weight: 500;
+}
